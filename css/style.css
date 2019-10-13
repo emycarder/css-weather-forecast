@@ -9,9 +9,7 @@ html{
 	height: 100%;
 	}
 	
-	html, body{
-	min-height: 100%;
-	}
+
 
 body {
   font: 400 18px/1.8 Raleway, sans-serif;
@@ -20,6 +18,7 @@ body {
 	padding: 0;
 	background-color: #3399CC;
 	border: 25px solid #2B81AC;
+	min-height: 100%;
 }
 
 .ba-section{
