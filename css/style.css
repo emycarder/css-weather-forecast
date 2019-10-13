@@ -5,6 +5,13 @@
 *:after{
   box-sizing: border-box;
 }
+html{
+	height: 100%;
+	}
+	
+	html, body{
+	min-height: 100%;
+	}
 
 body {
   font: 400 18px/1.8 Raleway, sans-serif;
